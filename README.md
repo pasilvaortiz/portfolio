@@ -2,6 +2,8 @@
 
 ## Publications Dr. PABLO SILVA ORTIZ
 
+Please find my research outcomes at Master/Doctorate/Post-Doctoral level in the Publications folder.
+
 ```
 PEER-REVIEWED PAPERS
 ```
