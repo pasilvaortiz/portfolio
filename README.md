@@ -48,16 +48,9 @@ Pablo A. Silva Ortiz, Silvio de Oliveira Junior
 Energy 76, p. 130-138, 2014. https://doi.org/10.1016/j.energy.2014.04.090
 
 
-
 ```
-cd existing_repo
-git remote add origin https://gitlab.unicamp.br/pabloaso/portfolio.git
-git branch -M main
-git push -uf origin main
+OUTCOMES E+ Energy Transition Institute (_Brazil_)
 ```
-
-## OUTCOMES E+ Energy Transition Institute (Brazil)
-
 
 ## Coluna EPBR
 
@@ -76,16 +69,6 @@ https://epbr.com.br/a-importancia-do-desenho-de-mercado-para-a-transicao-energet
 
 ## Publications
 
-Scoping Paper on the Brazilian Decarbonization – STEEL INDUSTRY
-https://emaisenergia.org/en/publicacao/scoping-paper-on-the-brazilian-decarbonization-steel-industry/
-
-Descarbonização do Setor de Energia no Brasil
-https://emaisenergia.org/publicacao/descarbonizacao-do-setor-de-energia-no-brasil/
-
-Valoração dos Serviços Ambientais no Setor Elétrico
-https://emaisenergia.org/publicacao/valoracao-dos-servicos-ambientais-no-setor-eletrico/
-
-
 - [ ] [Scoping Paper on the Brazilian Decarbonization – STEEL INDUSTRY](https://emaisenergia.org/en/publicacao/scoping-paper-on-the-brazilian-decarbonization-steel-industry/)
 
 - [ ] [Descarbonização do Setor de Energia no Brasil](https://emaisenergia.org/publicacao/descarbonizacao-do-setor-de-energia-no-brasil/)
@@ -93,12 +76,10 @@ https://emaisenergia.org/publicacao/valoracao-dos-servicos-ambientais-no-setor-e
 - [ ] [Valoração dos Serviços Ambientais no Setor Elétrico](https://emaisenergia.org/publicacao/valoracao-dos-servicos-ambientais-no-setor-eletrico/)
 
 
-
 ***
-
 ## Author
 Pablo A. Silva Ortiz [pabloaso@unicamp.br]
 
 ## License
-For open source projects, say how it is licensed.
+GNU GENERAL PUBLIC LICENSE V3
 
